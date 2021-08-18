@@ -1,0 +1,25 @@
+.recipie{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(71,71,71);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: white;
+    align-items: center;
+    width: 20%;
+    color: rgba(39, 39, 39, 0.753);
+    text-align: center;    
+    padding: 10px;
+}
+
+.image{
+    border-radius: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+.list{
+    list-style: none;
+    margin-right: 8%;
+}

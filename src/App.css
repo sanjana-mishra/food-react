@@ -1,0 +1,34 @@
+.App {
+  min-height: 100vh;  
+  background: linear-gradient(to right, #243949 0%, #517fa4 100%);
+  color:rgb(0, 0, 0);
+  text-align: center;  
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.search-form{
+  min-height: 20vh; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ margin-top: 0%;
+}
+
+.search-bar{
+  width:50%;
+  border: none;
+  padding: 10px;
+} 
+
+.search-button{
+  border: none;
+  padding: 10px 20px;
+  background-color: #517fa4;
+  color: aliceblue;  
+}
+
+.recipies{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
